@@ -1,0 +1,11 @@
+= GermaniumLibrary
+
+GermaniumLibrary program.
+
+== Installation
+
+
+[source,sh]
+-----------------------------------------------------------------------------
+pip install GermaniumLibrary
+-----------------------------------------------------------------------------
